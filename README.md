@@ -8,7 +8,7 @@ Willkommen zur Download-Sektion des AVL Fire Tutorials zur PEM-Elektrolyse-Simul
 Mit der Project-Datei kann das im Tutorial erzeugte AVL FIRE-Projekt direkt geöffnet werden.
 
 **Mesh- und Element-Dateien**  
-Um das Mesh separat zu laden, die Mesh-Datei und die zugehörige .elem-Datei einzeln herunterladen.
+Um das Mesh und die Settings separat zu laden, die Mesh-Datei und die zugehörige .elem-Datei einzeln herunterladen.
 
 **CAD-Dateien**  
 SolidWorks-Dateien der Bipolar- & Collectorplatte sowie STEP-Dateien zur Verwendung in AVL Fire.
